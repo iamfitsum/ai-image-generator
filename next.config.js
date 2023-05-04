@@ -8,6 +8,7 @@ const nextConfig = {
       "links.papareact.com",
       "vibeaiimagegenerat07656a.blob.core.windows.net",
     ],
+    unoptimized: true,
   },
 };
 
